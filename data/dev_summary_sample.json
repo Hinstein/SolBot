@@ -1,0 +1,194 @@
+[
+  {
+    "dev_address": "wallet_007",
+    "tokens": 12,
+    "total_spent": 20.196645,
+    "total_recv": 3.207712,
+    "net_sol": -16.988932000000002,
+    "wins": 0,
+    "losses": 12,
+    "rugs": 9,
+    "tokens_list": [
+      "token_008",
+      "token_018",
+      "token_019",
+      "token_020",
+      "token_021",
+      "token_022",
+      "token_023",
+      "token_024",
+      "token_025",
+      "token_026",
+      "token_027",
+      "token_028"
+    ]
+  },
+  {
+    "dev_address": "wallet_008",
+    "tokens": 9,
+    "total_spent": 19.092372,
+    "total_recv": 4.854805000000001,
+    "net_sol": -14.237567000000002,
+    "wins": 0,
+    "losses": 9,
+    "rugs": 4,
+    "tokens_list": [
+      "token_005",
+      "token_012",
+      "token_029",
+      "token_030",
+      "token_031",
+      "token_032",
+      "token_033",
+      "token_034",
+      "token_035"
+    ]
+  },
+  {
+    "dev_address": "wallet_009",
+    "tokens": 4,
+    "total_spent": 8.833147,
+    "total_recv": 5.156302999999999,
+    "net_sol": -3.676843,
+    "wins": 0,
+    "losses": 4,
+    "rugs": 0,
+    "tokens_list": [
+      "token_036",
+      "token_016",
+      "token_037",
+      "token_038"
+    ]
+  },
+  {
+    "dev_address": "wallet_010",
+    "tokens": 3,
+    "total_spent": 4.892289,
+    "total_recv": 0,
+    "net_sol": -4.892289,
+    "wins": 0,
+    "losses": 3,
+    "rugs": 3,
+    "tokens_list": [
+      "token_010",
+      "token_039",
+      "token_040"
+    ]
+  },
+  {
+    "dev_address": "wallet_011",
+    "tokens": 3,
+    "total_spent": 4.926689,
+    "total_recv": 0,
+    "net_sol": -4.926689,
+    "wins": 0,
+    "losses": 3,
+    "rugs": 3,
+    "tokens_list": [
+      "token_041",
+      "token_042",
+      "token_043"
+    ]
+  },
+  {
+    "dev_address": "wallet_012",
+    "tokens": 3,
+    "total_spent": 8.295795,
+    "total_recv": 4.615292999999999,
+    "net_sol": -3.680501,
+    "wins": 0,
+    "losses": 3,
+    "rugs": 1,
+    "tokens_list": [
+      "token_044",
+      "token_045",
+      "token_046"
+    ]
+  },
+  {
+    "dev_address": "wallet_013",
+    "tokens": 3,
+    "total_spent": 8.395942,
+    "total_recv": 6.009364,
+    "net_sol": -2.3865790000000002,
+    "wins": 0,
+    "losses": 3,
+    "rugs": 1,
+    "tokens_list": [
+      "token_047",
+      "token_048",
+      "token_049"
+    ]
+  },
+  {
+    "dev_address": "wallet_014",
+    "tokens": 3,
+    "total_spent": 12.906628000000001,
+    "total_recv": 10.638971000000002,
+    "net_sol": -2.2676579999999995,
+    "wins": 1,
+    "losses": 2,
+    "rugs": 0,
+    "tokens_list": [
+      "token_050",
+      "token_051",
+      "token_052"
+    ]
+  },
+  {
+    "dev_address": "wallet_015",
+    "tokens": 2,
+    "total_spent": 4.350826,
+    "total_recv": 1.843108,
+    "net_sol": -2.507718,
+    "wins": 0,
+    "losses": 2,
+    "rugs": 0,
+    "tokens_list": [
+      "token_004",
+      "token_053"
+    ]
+  },
+  {
+    "dev_address": "wallet_016",
+    "tokens": 2,
+    "total_spent": 9.618054,
+    "total_recv": 8.569961000000001,
+    "net_sol": -1.048093,
+    "wins": 1,
+    "losses": 1,
+    "rugs": 0,
+    "tokens_list": [
+      "token_013",
+      "token_054"
+    ]
+  },
+  {
+    "dev_address": "wallet_017",
+    "tokens": 2,
+    "total_spent": 2.434226,
+    "total_recv": 2.246974,
+    "net_sol": -0.187251,
+    "wins": 1,
+    "losses": 1,
+    "rugs": 0,
+    "tokens_list": [
+      "token_055",
+      "token_056"
+    ]
+  },
+  {
+    "dev_address": "wallet_018",
+    "tokens": 2,
+    "total_spent": 6.267165,
+    "total_recv": 2.803309,
+    "net_sol": -3.4638560000000003,
+    "wins": 0,
+    "losses": 2,
+    "rugs": 1,
+    "tokens_list": [
+      "token_057",
+      "token_058"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "token_mint": "token_001",
+    "buys": 15,
+    "sells": 0,
+    "sol_spent": 5.967192,
+    "sol_received": 6.338908,
+    "net_sol": 0.371716,
+    "roi_pct": 6.23,
+    "hold_minutes": 0.2,
+    "first_time": "05-13 14:37"
+  },
+  {
+    "token_mint": "token_006",
+    "buys": 13,
+    "sells": 0,
+    "sol_spent": 3.626071,
+    "sol_received": 3.374201,
+    "net_sol": -0.25187,
+    "roi_pct": -6.95,
+    "hold_minutes": 0.3,
+    "first_time": "05-13 14:37"
+  },
+  {
+    "token_mint": "token_007",
+    "buys": 5,
+    "sells": 0,
+    "sol_spent": 3.123163,
+    "sol_received": 1.424979,
+    "net_sol": -1.698184,
+    "roi_pct": -54.37,
+    "hold_minutes": 0.0,
+    "first_time": "05-13 14:37"
+  },
+  {
+    "token_mint": "token_008",
+    "buys": 3,
+    "sells": 0,
+    "sol_spent": 1.213763,
+    "sol_received": 0,
+    "net_sol": -1.213763,
+    "roi_pct": -100.0,
+    "hold_minutes": 0.0,
+    "first_time": "05-13 14:35"
+  },
+  {
+    "token_mint": "token_009",
+    "buys": 4,
+    "sells": 1,
+    "sol_spent": 4.330763,
+    "sol_received": 2.912834,
+    "net_sol": -1.417929,
+    "roi_pct": -32.74,
+    "hold_minutes": 0.1,
+    "first_time": "05-13 14:33"
+  },
+  {
+    "token_mint": "token_002",
+    "buys": 11,
+    "sells": 0,
+    "sol_spent": 2.054263,
+    "sol_received": 1.874866,
+    "net_sol": -0.179397,
+    "roi_pct": -8.73,
+    "hold_minutes": 0.3,
+    "first_time": "05-13 14:32"
+  },
+  {
+    "token_mint": "token_003",
+    "buys": 5,
+    "sells": 0,
+    "sol_spent": 1.803269,
+    "sol_received": 0.940646,
+    "net_sol": -0.862624,
+    "roi_pct": -47.84,
+    "hold_minutes": 0.1,
+    "first_time": "05-13 14:31"
+  },
+  {
+    "token_mint": "token_004",
+    "buys": 5,
+    "sells": 0,
+    "sol_spent": 3.123163,
+    "sol_received": 1.347057,
+    "net_sol": -1.776106,
+    "roi_pct": -56.87,
+    "hold_minutes": 0.1,
+    "first_time": "05-13 14:31"
+  },
+  {
+    "token_mint": "token_010",
+    "buys": 3,
+    "sells": 0,
+    "sol_spent": 1.839263,
+    "sol_received": 0,
+    "net_sol": -1.839263,
+    "roi_pct": -100.0,
+    "hold_minutes": 0.0,
+    "first_time": "05-13 14:29"
+  },
+  {
+    "token_mint": "token_005",
+    "buys": 5,
+    "sells": 0,
+    "sol_spent": 1.839263,
+    "sol_received": 0.759557,
+    "net_sol": -1.079706,
+    "roi_pct": -58.7,
+    "hold_minutes": 0.1,
+    "first_time": "05-13 14:27"
+  },
+  {
+    "token_mint": "token_011",
+    "buys": 5,
+    "sells": 0,
+    "sol_spent": 3.060763,
+    "sol_received": 0.70864,
+    "net_sol": -2.352122,
+    "roi_pct": -76.85,
+    "hold_minutes": 0.0,
+    "first_time": "05-13 14:26"
+  },
+  {
+    "token_mint": "token_012",
+    "buys": 3,
+    "sells": 0,
+    "sol_spent": 1.839263,
+    "sol_received": 0,
+    "net_sol": -1.839263,
+    "roi_pct": -100.0,
+    "hold_minutes": 0.0,
+    "first_time": "05-13 14:25"
+  }
+]

@@ -1,0 +1,26 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.json
+config.local.json
+
+# Large / sensitive data
+data/*.json
+data/*.csv
+data/friend_raw/
+!data/*sample*.json
+!data/*sample*.csv
+
+# OS
+.DS_Store
